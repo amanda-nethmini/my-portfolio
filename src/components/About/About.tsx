@@ -25,7 +25,7 @@ export default function About() {
                                 I leverage analytical skills and strong attention to detail in order to deliver original and efficient web solutions,
                                 provide technical knowledge and expertise, and develop and implement projects from concept to completion.</p>
                             <div className='flex gap-3 flex-wrap mt-5'>
-                                <Link href='https://drive.google.com/file/d/1byamalRKEd2FcEDGdMLf3o60GPiQjj80/view?usp=sharing' rel="noopener noreferrer"
+                                <Link href='https://drive.google.com/file/d/1TUiE-AsTLPn4twj5hXuOrx2be3r_SIY2/view?usp=sharing' rel="noopener noreferrer"
                                     target="_blank" className='hover:scale-105 transition-all duration-300 flex justify-center items-center'>
                                     <div className="px-6 py-3 text-sm font-semibold text-white bg-gradient-to-r from-[#D25FC3] to-blue-500 rounded-md flex gap-2">
                                         <Image src={'/Assets/Images/file-text.svg'} width={20} height={20} alt="Amanda Nethmini" />
