@@ -22,9 +22,9 @@ const SkillCard: React.FC<SkillCardProps> = ({ src, alt, title }) => {
 };
 
 const skillData = [
-    { src: "/Assets/logos/html.png", alt: "HTML", title: "HTML" },
-    { src: "/Assets/logos/css.png", alt: "CSS", title: "CSS" },
-    { src: "/Assets/logos/javascript.png", alt: "JavaScript", title: "JavaScript" },
+    { src: "/Assets/logos/Html.png", alt: "HTML", title: "HTML" },
+    { src: "/Assets/logos/Css.png", alt: "CSS", title: "CSS" },
+    { src: "/Assets/logos/Javascript.png", alt: "JavaScript", title: "JavaScript" },
     { src: "/Assets/logos/React-Dark.png", alt: "React", title: "React.js" },
     { src: "/Assets/logos/NextJS-Dark.png", alt: "Next.js", title: "Next.js" },
     { src: "/Assets/logos/NodeJS-Dark.png", alt: "Node.js", title: "Node.js" },
